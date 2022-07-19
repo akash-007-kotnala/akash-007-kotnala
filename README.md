@@ -3,7 +3,6 @@
 
 ### Hi there 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true) -->
 - - - 
 <!--
 **akash-007-kotnala/akash-007-kotnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-007-kotnala&layout=compact&show_icons=true&theme=dark)](https://github.com/akash-007-kotnala?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-007-kotnala&layout=compact&show_icons=true&theme=radical)](https://github.com/akash-007-kotnala?tab=repositories)
 <br/> <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
