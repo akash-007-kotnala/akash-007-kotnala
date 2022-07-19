@@ -15,10 +15,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Can visit My Creation : [skyNotes](http://sky-notes.herokuapp.com/)
 -->
 
-- ⚡ Can visit My Creation : [skyNotes](http://sky-notes.herokuapp.com/)
-- 📫 Can connect me on:  [<img alt="Akash's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">](https://www.linkedin.com/in/akash-kotnala-b84274188)
+**Languages and Tools:**  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-007-kotnala&layout=compact)](https://github.com/akash-007-kotnala?tab=repositories)
+<br/> <br/>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
+
+- 📫 Can connect me on: [![Linkedin Badge](https://img.shields.io/badge/-AkashKotnala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-kotnala-b84274188/)](https://www.linkedin.com/in/akash-kotnala-b84274188/)
+
+
+
+
 
 
 
