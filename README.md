@@ -1,7 +1,6 @@
 # Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,myself Akash Kotnala  
 ![](https://komarev.com/ghpvc/?username=akash-007-kotnala&color=green&label=PROFILE+VIEWS)
 
-### Hi there 
 
 - - - 
 <!--
